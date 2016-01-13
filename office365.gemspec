@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Joel Van Horn"]
   spec.email         = ["joel@joelvanhorn.com"]
 
-  spec.summary       = %q{Office365 API client for Ruby apps}
-  spec.description   = %q{Office365 API client for Ruby apps}
+  spec.summary       = %q{Microsoft Office365 API client library for Ruby apps}
+  spec.description   = %q{Microsoft Office365 API client library for Ruby apps}
   spec.homepage      = "https://github.com/joelvh/office365"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }

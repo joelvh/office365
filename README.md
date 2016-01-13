@@ -1,4 +1,4 @@
-# Microsoft Office365 Client for Ruby
+# Microsoft Office365 API Client Library for Ruby
 
 Access Microsoft Office365 APIs with a simple Ruby client.
 
